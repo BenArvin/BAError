@@ -67,7 +67,7 @@ Params:
 	fi
 
 	echo "publish..."
-    pod repo push ${REPO_NAME} ${PODSPEC_FILE_NAME}.podspec --verbose --allow-warnings
+    pod trunk push ${PODSPEC_FILE_NAME}.podspec --verbose --allow-warnings
 }
 
 
