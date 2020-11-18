@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BAError'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Helper category for NSError.'
 
 # This description is used to generate tags and improve search results.
@@ -29,6 +29,7 @@ Helper category for NSError, mark details of NSError more effective.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
+  s.osx.deployment_target = '10.6'
 
   s.source_files = 'BAError/Classes/**/*'
   
