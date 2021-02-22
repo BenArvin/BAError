@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'BAError'
-  s.version          = '0.2.0'
+  s.version          = '0.2.1'
   s.summary          = 'Helper category for NSError.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Helper category for NSError, mark details of NSError more effective.
   s.homepage         = 'https://github.com/benarvin/BAError'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'benarvin' => 'benarvin@outlook.com' }
+  s.author           = { 'benarvin' => 'benarvin93@outlook.com' }
   s.source           = { :git => 'https://github.com/benarvin/BAError.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

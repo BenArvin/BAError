@@ -55,7 +55,7 @@ pod 'BAError'
 
 ## Author
 
-benarvin, benarvin@outlook.com
+benarvin, benarvin93@outlook.com
 
 ## License
 
